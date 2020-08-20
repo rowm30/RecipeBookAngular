@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "RISE-MK3"
+    }
+  },
+  "defaultProject": "RISE-MK3",
+  "cli": {
+    "analytics": "0cf07e4f-a213-43c3-9ea9-ca4e390071cf"
+  }
 }
