@@ -10,7 +10,6 @@ export class RecipesListComponent implements OnInit {
   recipes: Recipe[] = [
     new Recipe('A test recipe','This is only for test','https://c1.wallpaperflare.com/preview/739/376/852/kyllingefrikadeller-potatoes-meatballs-recipes.jpg'),
     new Recipe('A test recipe','This is only for test','https://c1.wallpaperflare.com/preview/739/376/852/kyllingefrikadeller-potatoes-meatballs-recipes.jpg'),
-    new Recipe('A test recipe','This is only for test','https://c1.wallpaperflare.com/preview/739/376/852/kyllingefrikadeller-potatoes-meatballs-recipes.jpg'),
   ];
   
   constructor() { }
